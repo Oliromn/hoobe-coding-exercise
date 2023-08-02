@@ -9,7 +9,7 @@
 🏁 Once you have completed the test, please submit a link to a public Github repository that includes directions on how to preview the work, and send us an invoice for your time.
 
 ## The exercise
-🏗️ Here is a hoo.be page in our development environment: https://devapp.hoo.be/hoobe_coding_exercise. Using React, Nextjs, SCSS, and any other technologies or libraries you like, build a copy of this page. 
+🏗️ Here is a hoo.be page in our development environment: https://devapp.hoo.be/hoobe_coding_exercise. Using React, Nextjs, SCSS, and any other technologies or libraries you like, build a copy of this page. You do not need to create the pages that are linked from this page from the `create your hoo.be` or `login` buttons at the bottom.
 
 You can fork this repo or create your own repo and copy over the assets. 
 
